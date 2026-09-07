@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="E9ULO88k81yMDBlSyHh_">
-    <mxGraphModel dx="968" dy="564" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="911" dy="531" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,7 +465,7 @@
         <mxCell id="yFelbX5tFlE2_MnYrehB-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="hole" vertex="1">
           <mxGeometry height="30" width="60" x="301" y="767" as="geometry" />
         </mxCell>
-        <mxCell id="yFelbX5tFlE2_MnYrehB-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="extrude inside 2mm" vertex="1">
+        <mxCell id="yFelbX5tFlE2_MnYrehB-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="extrude inside 1.5mm" vertex="1">
           <mxGeometry height="30" width="60" x="316" y="812" as="geometry" />
         </mxCell>
         <mxCell id="yFelbX5tFlE2_MnYrehB-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
